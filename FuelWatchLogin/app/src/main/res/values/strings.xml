@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">FuelWatchLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="Heading">Enter Your Password Details</string>
+
+    <string name="email">Email: </string>
+    <string name="password">Password: </string>
+
+    <string name="PostLogin">Login</string>
+
+
+    <string name="Message">Current Oil Level: </string>
+
+    <string name="OilLevel">oil level</string>
+
+
+</resources>
