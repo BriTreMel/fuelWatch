@@ -13,7 +13,7 @@
 
     <string name="Message">Current Oil Level: </string>
 
-    <string name="OilLevel">oil level</string>
+    <string name="OilLevel">15</string>
 
 
 </resources>
